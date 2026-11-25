@@ -23,7 +23,8 @@ Registration, login, and review submission are planned features.
 - **Backend:** Node.js, Express
 - **Database:** PostgreSQL
 - **Tools:** npm, pgAdmin
-
+## Screenshots
+<img width="2790" height="1490" alt="image" src="https://github.com/user-attachments/assets/1d1c3272-e198-4586-b593-e55a004861b5" />
 ## Folder Structure
 
 ```text
@@ -36,5 +37,4 @@ reviewhub/
 │   └── index.js         
 ├── package.json         
 └── vite.config.js      
-## Screenshots
-<img width="2790" height="1490" alt="image" src="https://github.com/user-attachments/assets/1d1c3272-e198-4586-b593-e55a004861b5" />
+
