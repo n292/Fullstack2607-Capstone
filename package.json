@@ -1,0 +1,26 @@
+{
+  "name": "reviewhub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "concurrently -k \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:server": "node --env-file=.env --watch server/index.js",
+    "dev:client": "vite",
+    "db:setup": "node --env-file=.env server/setup.js",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "vite": "^7.0.0"
+  }
+}
