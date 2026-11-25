@@ -36,3 +36,6 @@ reviewhub/
 │   └── index.js         
 ├── package.json         
 └── vite.config.js      
+## Screenshots
+Browse Feature
+<img width="2790" height="1490" alt="image" src="https://github.com/user-attachments/assets/1d1c3272-e198-4586-b593-e55a004861b5" />
