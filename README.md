@@ -24,7 +24,7 @@ Registration, login, and review submission are planned features.
 - **Database:** PostgreSQL
 - **Tools:** npm, pgAdmin
 
-## folder structure
+## Folder Structure
 
 ```text
 reviewhub/
