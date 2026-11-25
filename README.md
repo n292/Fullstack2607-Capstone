@@ -24,7 +24,7 @@ Registration, login, and review submission are planned features.
 - **Database:** PostgreSQL
 - **Tools:** npm, pgAdmin
 ## Screenshots
- ## Browse Feature 
+ Browse Feature 
  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1d1c3272-e198-4586-b593-e55a004861b5" />
 
