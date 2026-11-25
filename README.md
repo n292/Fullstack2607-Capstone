@@ -28,11 +28,11 @@ Registration, login, and review submission are planned features.
 
 ```text
 reviewhub/
-├── src/                 # React components and styles
+├── src/                
 ├── server/
-│   ├── db.js            # Database connection
-│   ├── database.sql     # Tables and sample data
-│   ├── setup.js         # Database setup
-│   └── index.js         # API routes
-├── package.json         # Dependencies and commands
-└── vite.config.js       # Frontend configuration
+│   ├── db.js           
+│   ├── database.sql     
+│   ├── setup.js         
+│   └── index.js         
+├── package.json         
+└── vite.config.js      
