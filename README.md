@@ -24,10 +24,7 @@ Registration, login, and review submission are planned features.
 - **Database:** PostgreSQL
 - **Tools:** npm, pgAdmin
 
-## Architecture
-React requests catalog data from the Express API. Express queries PostgreSQL and returns the items and rating summaries.
-
-React → Express API → PostgreSQL
+## folder structure
 
 ```text
 reviewhub/
